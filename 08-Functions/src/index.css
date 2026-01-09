@@ -1,0 +1,34 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body,html {
+  height: 100%;
+  width: 100%;
+  font-family: Arial, sans-serif;
+}
+input {
+  padding: 8px;
+  margin: 20px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+.box{
+  width: 200px;
+  height: 200px;
+  background-color: lightblue;
+  margin: 20px auto;
+}
+.page1{
+  background-color: lightgreen;
+  height: 100vh;
+}
+.page2{
+  background-color: lightcoral;
+  height: 100vh;
+}
+.page3{
+  background-color: lightgoldenrodyellow;
+  height: 100vh;
+}
